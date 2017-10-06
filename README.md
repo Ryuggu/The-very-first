@@ -6,4 +6,4 @@
 + List 2
 + List 3
 
-Cery long and interesting sentence.
+Very long and interesting sentence.
